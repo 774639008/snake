@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1548643423 source:d:\project\123\main.c
+	<stdio.h>
+	<stdlib.h>
+	"public.h"
+	"view.h"
+	"list.h"
+	"file.h"
+
+1548643707 source:d:\project\123\public.c
+	<conio.h>
+	<string.h>
+	"public.h"
+
+1548643499 d:\project\123\public.h
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1548643793 source:d:\project\123\view.c
+	"view.h"
+	"public.h"
+
+1548206210 d:\project\123\view.h
+
+1548643296 source:d:\project\123\snakeshow.c
+	"snakeshow.h"
+	"public.h"
+	"list.h"
+
+1548643669 d:\project\123\snakeshow.h
+
+1548643005 source:d:\project\123\snakecontroller.c
+	"snakecontroller.h"
+	"public.h"
+	"snakeshow.h"
+
+1548643541 d:\project\123\snakecontroller.h
+
+1548643390 source:d:\project\123\snakerule.c
+	"snakerule.h"
+	"public.h"
+	"list.h"
+	"file.h"
+	"snakerecord.h"
+
+1548643674 d:\project\123\snakerule.h
+
+1548377265 source:d:\project\123\file.c
+	"public.h"
+	"list.h"
+	"file.h"
+
+1548377566 d:\project\123\list.h
+	<stdio.h>
+	<stdlib.h>
+
+1548377280 d:\project\123\file.h
+
+1548378173 source:d:\project\123\list.c
+	"list.h"
+	"public.h"
+
+1548643054 source:d:\project\123\snakerecord.c
+	"snakerecord.h"
+	"list.h"
+	"public.h"
+	"snakeshow.h"
+
+1548385643 d:\project\123\snakerecord.h
+
